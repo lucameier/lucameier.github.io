@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+# Dark mode configuration
+minima:
+  skin: dark
